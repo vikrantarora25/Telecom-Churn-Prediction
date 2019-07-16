@@ -19,20 +19,3 @@
     7. Model Building: XGBoost using Random Search CV for parameter tuning
     
     8. Model Comparisons/Evaluation using Classification Report and ROC-AUC Curve
-    
-    #Visualizations Excerpts
-    
-    ## Confusion Matix of Random Forests- The best scoring algorithm
-    
-    ![alt text](Images/Confusion_Matrix_RFs.png)
-    
-    ## Bivariate Analysis visualizations
-    
-    ![](Images/Avg_Deliquency_KDE.png)
-    
-    ![](Images/Account_Age_KDE.png)
-    
-    ![](Images/Current_Bill_Amount_KDE.png)
-    
-    ![](Images/Compalints_Countplot.png)
-    
