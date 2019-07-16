@@ -22,4 +22,17 @@
     
     #Visualizations Excerpts
     
-    ##
+    ## Confusion Matix of Random Forests- The best scoring algorithm
+    
+    ![](images/Confusion_Matrix_RFs.png)
+    
+    ## Bivariate Analysis visualizations
+    
+    ![](images/Avg_Deliquency_KDE.png)
+    
+    ![](images/Account_Age_KDE.png)
+    
+    ![](images/Current_Bill_Amount_KDE.png)
+    
+    ![](images/Compalints_Countplot.png)
+    
