@@ -24,7 +24,7 @@
     
     ## Confusion Matix of Random Forests- The best scoring algorithm
     
-    ![](Images/Confusion_Matrix_RFs.png)
+    ![alt text](Images/Confusion_Matrix_RFs.png)
     
     ## Bivariate Analysis visualizations
     
