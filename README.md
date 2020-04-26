@@ -12,10 +12,10 @@
     
 4. Model Building: Logistic Regression
     
-5. Model Building: Random Forests- Deriving feature importances and building RF Model using Grid Search CV
+5. Model Building: Random Forests- Deriving feature importances and building RF Model using best parameters from Grid Search CV
     
-6. Model Building: SVM's- Standardizing Data and then running SVM with Grid Search CV for params tuning
+6. Model Building: SVM's- Standardizing Data and then running SVM using best parameters from Grid Search CV
     
-7. Model Building: XGBoost using Random Search CV for parameter tuning
+7. Model Building: XGBoost using using best parameters from Random Search CV
     
 8. Model Comparisons/Evaluation using Classification Report and ROC-AUC Curve
